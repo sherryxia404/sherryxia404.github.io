@@ -2,4 +2,4 @@
 ## Update
 github.io is heading to my personal website
 
-Visit my Portfolio here: *update soon*
+Visit my Portfolio here: *updating soon*
